@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "data-science-from-scratch"
+  site-url: "https://ronaldlens.github.io/data-science-from-scratch"
+  description: "Data Science From Scratch book workspace"
+  repo-branch: main
+  repo-url: "https://github.com/ronaldlens/data-science-from-scratch"
